@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "build": "echo 'Building the project...'"  
+    "build": "echo 'Building the project...'"  ,
+    "deploy":"rsync -avz ./ git@github.com/Siyuanwang314-prog/mysite"
   },
   "author": "",
   "license": "ISC",

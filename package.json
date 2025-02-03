@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "build": "echo 'Building the project...'",  // 构建命令
-    "deploy": "echo 'Deploying the project...'"  // 部署命令（可以根据需要修改）
+    "build": "echo 'Building the project...'"  
   },
   "author": "",
   "license": "ISC",

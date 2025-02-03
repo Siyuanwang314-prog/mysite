@@ -4,6 +4,7 @@
   "description": "My awesome project",
   "main": "index.js",
   "scripts": {
+    "build"："your-build-command",
     "start": "node index.js"
   },
   "author": "",
